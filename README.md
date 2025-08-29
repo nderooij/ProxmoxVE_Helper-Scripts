@@ -1,7 +1,7 @@
 <div align="center">
   <p align="center">
 ##  This is my first fork, the 1st change I've made was for NGINX Proxy Manager LXC, install script is now: <br>
-    ' bash -c "$(curl -fsSL https://raw.githubusercontent.com/nderooij/ProxmoxVE_Helper-Scripts/main/ct/nginxproxymanager.sh)" '
+    bash -c "$(curl -fsSL https://raw.githubusercontent.com/nderooij/ProxmoxVE_Helper-Scripts/main/ct/nginxproxymanager.sh)"
 
 ---
   </p>
